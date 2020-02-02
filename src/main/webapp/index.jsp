@@ -10,7 +10,7 @@
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
 <h12 class="text-center">My job is done with Jenkins- line added here </h1>
-      <h2 class="text-center">Hello World!Auto deployment local git repo  DEV3L - v2.0- Ajeesh Modified the code-v2.0-some modifcation before ansible</h2>
+      <h2 class="text-center">Hello World!Auto deployment local git repo  DEV3L - v2.0- Ajeesh Modified Feb-02 15:07</h2>
       <p class="text-center">Now with Travis-CI!</p>
   </div>
 </body>
